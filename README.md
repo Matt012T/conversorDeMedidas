@@ -8,10 +8,10 @@ O programa atualmente suporta apenas três unidades, sendo elas de volume: cent�
 
 ### Objetivos
 
-[ ] m²
-[ ] m
-[ ] cm
-[ ] cm²
+- [ ] m²
+- [ ] m
+- [ ] cm
+- [ ] cm²
 
 - E mais...
 
