@@ -5,3 +5,13 @@ O Conversor de Unidades é um pequeno programa que tem como objetivo, obviamente
 ## Suporte
 
 O programa atualmente suporta apenas três unidades, sendo elas de volume: centímetros cúbicos(cm³), litros(L) e mililitros(mL).
+
+### Objetivos
+
+[ ] m²
+[ ] m
+[ ] cm
+[ ] cm²
+
+- E mais...
+
